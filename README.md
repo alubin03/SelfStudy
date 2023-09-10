@@ -8,3 +8,5 @@ Blogs of challenges I've completed to enhance my IT/Cybersecurity skills
 
 
 Active Directory Basics: https://github.com/alubin03/THM-AD#tryhackme-active-directory-basics
+
+Intro to Offensive Security: https://github.com/alubin03/Into-OS#intro-to-offensive-security
