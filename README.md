@@ -7,8 +7,10 @@ Blogs of challenges and labs I've completed to enhance my IT/Cybersecurity skill
 </p>
 
 
-Active Directory Basics: https://github.com/alubin03/THM-AD#tryhackme-active-directory-basics
+Active Directory Labs: https://github.com/alubin03/THM-AD#tryhackme-active-directory-basics
 
 Intro to Offensive Security: https://github.com/alubin03/Into-OS#intro-to-offensive-security
 
-Phishing Analysis Fundamentals: https://github.com/alubin03/TRM-PhishingF#phishing-analysis-fundamentals
+Phishing Challenges: https://github.com/alubin03/TRM-PhishingF#phishing-analysis-fundamentals
+
+SIEM and Logging:
