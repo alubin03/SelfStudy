@@ -75,12 +75,12 @@ Week 12 Tasks:
 3. Complete LetsDefend.io's "Network Log Analysis" course.
  
 
-## Additional/Labs and Challenges Completed 
+## Additional Labs and Challenges Completed 
 
 Active Directory Labs: https://github.com/alubin03/THM-AD#tryhackme-active-directory-basics
-
-Intro to Offensive Security: https://github.com/alubin03/Into-OS#intro-to-offensive-security
 
 Phishing Challenges: https://github.com/alubin03/TRM-PhishingF#phishing-analysis-fundamentals
 
 SIEM and Logging: https://github.com/alubin03/THM-SIEM/blob/main/README.md#intro-to-siem
+
+Intro to Offensive Security: https://github.com/alubin03/Into-OS#intro-to-offensive-security
