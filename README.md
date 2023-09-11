@@ -13,4 +13,4 @@ Intro to Offensive Security: https://github.com/alubin03/Into-OS#intro-to-offens
 
 Phishing Challenges: https://github.com/alubin03/TRM-PhishingF#phishing-analysis-fundamentals
 
-SIEM and Logging:
+SIEM and Logging: https://github.com/alubin03/THM-SIEM/blob/main/README.md#intro-to-siem
