@@ -35,7 +35,7 @@ Week 5 Tasks:
 2. Complete the "Windows Fundamentals" Learning Path on TryHackMe.
 3. Complete the LetsDefend.io's "Advanced Penetration Testing" course.
 
-November: 🦃
+Week 6 Tasks:
 1. Complete the "Web Applications" module on TryHackMe.
 2. Complete the "Network Security" module on TryHackMe.
 3. Complete the "Cryptocurrency and Blockchain" module on TryHackMe.
@@ -50,7 +50,8 @@ Week 8 Tasks:
 2. Complete the "Vulnerability Assessment" module on TryHackMe.
 3. Sign up for LetsDefend.io's "Cloud Security" course.
 
-December: ☃️
+November & December:☃️ (Holidays and traviling)
+
 Goal: Understand Best Practices and Compliance in Information Security.
 
 Week 9 Tasks:
