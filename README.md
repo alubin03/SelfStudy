@@ -4,7 +4,7 @@
   
 ## Fall 2023 Semester Curriculum 
 
-September:🍂
+#### September:🍂
 Goal: Understand the basics of Information Security and Explore NIST Frameworks.
 
 Week 1 Tasks:
@@ -27,7 +27,7 @@ Week 4 Tasks:
 2. Sign up for LetsDefend.io's "Cybersecurity for Vehicle Security" course.
 3. Complete the "Malware Analysis" module on TryHackMe and learn about analyzing malware.
 
-October:🎃
+#### October:🎃
 Goal: Develop Technical Skills in Information Security.
 
 Week 5 Tasks:
@@ -50,7 +50,7 @@ Week 8 Tasks:
 2. Complete the "Vulnerability Assessment" module on TryHackMe.
 3. Sign up for LetsDefend.io's "Cloud Security" course.
 
-November & December:☃️ (Holidays and traviling)
+#### Nov/Dec:☃️ (Holidays and traviling)
 
 Goal: Understand Best Practices and Compliance in Information Security.
 
