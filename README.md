@@ -18,7 +18,7 @@ Week 2 Tasks:
 3. Complete the "Junior Security Analyst Intro" module on TryHackMe and learn about SOC best practices.
 
 Week 3 Tasks:
-1. Complete the "Vulnerability Management" module on TryHackMe.
+1. Complete the "Windows Fundamentals 1" module on TryHackMe.
 2. Start the LetsDefend.io's "IT Security Basics" course.
 3. Complete the "Walking an Application" module on TryHackMe and learn about web application security.
 
@@ -31,8 +31,8 @@ Week 4 Tasks:
 Goal: Develop Technical Skills in Information Security.
 
 Week 5 Tasks:
-1. Complete the "Active Directory Hardening" Learning Path on TryHackMe.
-2. Complete the "Snort" Learning Path on TryHackMe.
+1. Complete the "Active Directory Hardening" module TryHackMe.
+2. Complete the "Snort" module on TryHackMe.
 3. Start the LetsDefend.io's "Cyber Kill Chain" course.
 
 Week 6 Tasks:
