@@ -8,7 +8,7 @@
 Goal: Understand the basics of Information Security and Explore NIST Frameworks.
 
 Week 1 Tasks:
-1. Complete the "Introduction to Cybersecurity" Learning Path on TryHackMe.
+1. Complete the "Learning Cybersecurity" module on TryHackMe.
 2. Start the LetsDefend.io's "SOC Fundamentals" course.
 3. Complete individual research on NIST Cybersecurity Framework.
 
