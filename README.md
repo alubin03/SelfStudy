@@ -32,7 +32,7 @@ Goal: Develop Technical Skills in Information Security.
 
 Week 5 Tasks:
 1. Complete the "Active Directory Hardening" module TryHackMe.
-2. Complete the "Snort" module on TryHackMe.
+2. Complete the "Intro to Logging" module on TryHackMe.
 3. Start the LetsDefend.io's "Cyber Kill Chain" course.
 
 Week 6 Tasks:
